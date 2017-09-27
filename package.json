@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-bucket-zhifubao",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "bucket-zhifubao"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-bucket-zhifubao.git"
+  },
+  "main": "index.js"
+}
